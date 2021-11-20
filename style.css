@@ -1,0 +1,78 @@
+.container{
+    margin-bottom: 50px;
+}
+.nav-bar-img{
+    width: 200px;
+    height: 60px;
+    padding: 10px;
+}
+.nav-btn{
+    border: none;
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: rgb(40, 146, 40);
+    border-radius: 20px;
+}
+.nav-bar{
+    margin-top: 10px;
+    
+}
+.nav-item{
+    margin-left: 17px;
+    margin-top: 8px;
+    padding: 10px;
+}
+.illustration-img{
+    margin-right: 100px;
+    width: 400px;
+    height: 300px;
+}
+#hd-color{
+    color: red;
+}
+span{
+    color:rgb(40, 146, 40); ;
+}
+.row p{
+    color: #6C6B6B;
+}
+.row-img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.site-data{
+    text-align: center;
+}
+.courses-card{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.tt-heading{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.tt-biodata img{
+    width: 100px;
+    height: 90px;
+    float: left;
+    text-align: center;
+}
+.tt-biodata{
+    margin-right: 140px;
+}
+.footer{
+    margin-top: 150px;
+    background-color: black;
+    color: white;
+
+}
+.footer-td{
+    list-style-type: none;
+    text-align: center;
+}
+.footer-cr{
+    text-align: center;
+}
